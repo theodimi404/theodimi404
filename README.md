@@ -2,6 +2,7 @@
 Full-Stack Developer
 
 ## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/theodoros-dimitriades/)
 - theodimitriades@gmail.com
 
 <!--
