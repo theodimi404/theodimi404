@@ -8,6 +8,11 @@ Full-Stack Engineer
 - **Frontend**: React, Typescript
 - **Backend**: Django
 
+## 🌍 Languages I speak
+- 🇬🇷 **Greek** (Native)
+- 🇬🇧 **English** (Fluent)
+- 🇩🇪 **German** (Intermediate)
+
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/theodoros-dimitriades/)
 - theodimitriades@gmail.com
