@@ -1,5 +1,8 @@
 ## Hi there 👋
-Full-Stack Developer
+Full-Stack Engineer
+
+## 💼 Experience
+- **Full-Stack Engineer** @ Pfizer (2020-Present)
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/theodoros-dimitriades/)
