@@ -6,6 +6,7 @@ Full-Stack Engineer
 
 ## 🛠️ Tech Stack
 - **Frontend**: React, Typescript
+- **Backend**: Django
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/theodoros-dimitriades/)
