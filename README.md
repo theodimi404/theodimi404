@@ -2,7 +2,7 @@
 Full-Stack Developer
 
 ## 📫 Contact
-- theodimitriades@pfizer.com
+- theodimitriades@gmail.com
 
 <!--
 **theodimi404/theodimi404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
