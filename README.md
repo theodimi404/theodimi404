@@ -5,7 +5,7 @@ Full-Stack Engineer
 - **Full-Stack Engineer** @ Pfizer (2020-Present)
 
 ## 🛠️ Tech Stack
-**Frontend**: React, Typescript
+- **Frontend**: React, Typescript
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/theodoros-dimitriades/)
